@@ -69,3 +69,4 @@
  1. 객체 모델링 : 객체의 속성, 기능을 정리 <br><br>
  2. 클래스 정의 : 속성은 field, 기능은 method로 정의<br><br>
  3. 인스턴스의 생성과 사용 : main method 내부에서 new라는 keyword를 사용해 객체의 field, method에 접근 <br>
+
